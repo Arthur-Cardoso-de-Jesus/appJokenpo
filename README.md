@@ -12,7 +12,7 @@
 <br>
 
 ### APK:
-<a href=./jokenpoGame.apk>Download APK </a>
+<a href=./appJokenpo.apk>Download APK </a>
 
 ### Layout mobile:
 <div>
